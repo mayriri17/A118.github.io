@@ -9,6 +9,14 @@
 }
 /*untuk hp*/
 @media all and (max-width: 670px) {
+    .menu-kanan {
+        display:none;
+    }
+    
+    .menu-kanan li {
+        display:block;
+    }
+    
     .sub-main {
         text-align: left;
         }
