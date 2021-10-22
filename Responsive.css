@@ -1,7 +1,7 @@
 /*untuk tablet*/
 @media all and (max-width: 1000px) {
     .main {
-        height: 800px;
+        height: 1000px;
     }
     .menu {
         width: 50%;
@@ -35,7 +35,7 @@
    } 
 
    input, textarea {
-     width: 100%;
+     width: 80%;
    }
     .footer {
       text-align: center;
