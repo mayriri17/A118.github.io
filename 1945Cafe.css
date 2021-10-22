@@ -133,6 +133,7 @@ textarea {
     color:#889eab ;
     cursor: pointer;
     opacity: 0.5;
+    padding-top: 10px;
 }
 
 .info-submit:hover {
