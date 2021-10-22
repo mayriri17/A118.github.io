@@ -1,0 +1,32 @@
+/*untuk tablet*/
+@media all and (max-width: 1000px) {
+    .main {
+        height: 800px;
+    }
+    .menu {
+        width: 50%;
+      }
+}
+/*untuk hp*/
+@media all and (max-width: 670px) {
+    .main {
+        height: 1170px;
+      }
+    .menu {
+        width: 100%;
+      }
+    .sub-main h1 {
+        font-size: 80px;
+    }
+
+   .info-reservasi {
+     text-align: 100%;
+   } 
+
+   input, textarea {
+     width: 100%;
+   }
+    .footer {
+      text-align: center;
+    }
+}
