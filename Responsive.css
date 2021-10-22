@@ -18,8 +18,8 @@
     }
             
      .sub-main h1 {
-         font-size: 36px;
-         padding: 20px 20px;
+         font-size: 80px;
+        margin-top: 20px;
      }
     
     .sub-main h2 {
@@ -37,7 +37,7 @@
    } 
 
    input, textarea {
-     width: 100%;
+     width: 90%;
    }
     .footer  {
       text-align: center;
