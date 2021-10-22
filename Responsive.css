@@ -26,10 +26,7 @@
     .menu {
         width: 100%;
       }
-    .sub-main h1 {
-        font-size: 80px;
-    }
-
+    
    .info-reservasi {
      text-align: 100%;
    } 
@@ -37,7 +34,8 @@
    input, textarea {
      width: 80%;
    }
-    .footer {
-      text-align: center;
+    .footer p {
+        font-size: 11px;
+        letter-spacing: 2px;
     }
 }
