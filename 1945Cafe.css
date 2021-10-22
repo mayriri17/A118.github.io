@@ -37,11 +37,13 @@ body {
 
   .main {
     background-color: #e2f1f0;
-    height: 950px;
+    height: 1170px;
     width: 100%;
   }
   .sub-main {
     background-color: aquamarine;
+    padding-top: 70px;
+    padding-bottom: 40px;
   }
   .sub-main h1 {
     font-size: 100px;
