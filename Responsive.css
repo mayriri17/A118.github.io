@@ -9,6 +9,17 @@
 }
 /*untuk hp*/
 @media all and (max-width: 670px) {
+    .sub-main {
+        text-align: left;
+        }
+        
+     .sub-main h1 {
+         font-size: 36px;
+     }
+    
+    .sub-main h2 {
+        font-size: 20px;
+     }
     .main {
         height: 1170px;
       }
