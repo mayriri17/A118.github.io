@@ -34,8 +34,7 @@
    input, textarea {
      width: 80%;
    }
-    .footer p {
-        font-size: 11px;
-        letter-spacing: 2px;
+    .footer  {
+      text-align: center;
     }
 }
