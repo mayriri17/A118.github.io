@@ -16,13 +16,10 @@
     .menu-kanan li {
         display:block;
     }
-    
-    .sub-main {
-        padding: 20px 20px;
-        }
-        
+            
      .sub-main h1 {
          font-size: 36px;
+         padding: 20px 20px;
      }
     
     .sub-main h2 {
